@@ -1,3 +1,3 @@
 # astar-sns-contract
 
-test
+UNCHAINのASTAR-SocialFiコンテンツです
