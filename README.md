@@ -1,1 +1,3 @@
 # astar-sns-contract
+
+test
